@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. Candidate
+description: Ph.D. Candidate, JHU Dept. of Physics and Astronomy
 order: 1
 
 profile:
@@ -21,7 +21,9 @@ I'm Jacob, a Ph.D. candidate in the Department of Physics and Astronomy at
 Johns Hopkins University. My research has used data from the Gaia satellite
 to reveal new insights into the evolution of exoplanet systems. Using data from Gaia,
 we can determine the velocities of stars in the Milky Way. In turn, we can use these 
-velocities to infer the relative age of different populations of stars.
+velocities to infer the relative age of different populations of stars. I use these relative ages
+to study how exoplanet systems evolve due to tidal interactions between stars and planets. You can 
+papers on [ADS](https://ui.adsabs.harvard.edu/search/q=%22Hamer%2C%20Jacob%20H.%22%20year%3A2016-&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 I'm passionate about science communication, especially observatory-based outreach
 and interactive data visualizations. While I was Observatory Fellow for Maryland 
