@@ -31,7 +31,7 @@ to study how exoplanet systems evolve due to tidal interactions between stars an
 papers on [ADS](https://ui.adsabs.harvard.edu/search/q=%22Hamer%2C%20Jacob%20H.%22%20year%3A2016-&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 I'm passionate about science communication, especially observatory-based outreach
-and interactive data visualizations. While I was Observatory Fellow for Maryland 
+and interactive data visualizations. While I was Observatory Fellow for the Maryland 
 Space Grant Consortium, I authored several interactive blog posts on 
 [ObservableHQ](https://observablehq.com/search?query=jhhamer&onlyOwner=false&sort=created&direction=desc). I also mentored a 
 JHU undergraduate, and together we produced a planetarium show 
