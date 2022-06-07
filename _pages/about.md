@@ -28,7 +28,7 @@ to reveal new insights into the evolution of exoplanet systems. Using data from 
 we can determine the velocities of stars in the Milky Way. In turn, we can use these 
 velocities to infer the relative age of different populations of stars. I use these relative ages
 to study how exoplanet systems evolve due to tidal interactions between stars and planets. You can 
-papers on [ADS](https://ui.adsabs.harvard.edu/search/q=%22Hamer%2C%20Jacob%20H.%22%20year%3A2016-&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+access my publications on [ADS](https://ui.adsabs.harvard.edu/search/q=%22Hamer%2C%20Jacob%20H.%22%20year%3A2016-&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 I'm passionate about science communication, especially observatory-based outreach
 and interactive data visualizations. While I was Observatory Fellow for the Maryland 
