@@ -33,7 +33,7 @@ access my publications on [ADS](https://ui.adsabs.harvard.edu/search/q=%22Hamer%
 I'm passionate about science communication, especially observatory-based outreach
 and interactive data visualizations. While I was Observatory Fellow for the Maryland 
 Space Grant Consortium, I authored several interactive blog posts on 
-[ObservableHQ](https://observablehq.com/search?query=jhhamer&onlyOwner=false&sort=created&direction=desc). I also mentored a 
+[ObservableHQ](https://observablehq.com/search?query=jhhamer&onlyOwner=false&creator=&owner=false&team=&published=true&unlisted=false&includePrivate=false&onlyTitle=false&sort=created&direction=desc). I also mentored a 
 JHU undergraduate, and together we produced a planetarium show 
 on the transit and doppler methods for detecting exoplanets, available on 
 [YouTube](https://www.youtube.com/watch?v=_vlDmQSgOK8).
